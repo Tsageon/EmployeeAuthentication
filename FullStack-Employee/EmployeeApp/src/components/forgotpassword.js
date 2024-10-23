@@ -45,4 +45,4 @@ const ForgotPassword = () => {
         </div>
     );
 };
-export de
+export default ForgotPassword;

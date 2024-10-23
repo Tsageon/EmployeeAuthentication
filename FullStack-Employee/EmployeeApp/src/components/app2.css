@@ -181,4 +181,5 @@ table caption {
 
 .error {
   color: #ff4d4d;
-  font-size: 0.9e
+  font-size: 0.9em;
+  margin-top: 0.313rem;}
